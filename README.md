@@ -1,4 +1,4 @@
-# Distributed-computing-system
+# Distributed-computing-integral
 ### Screencast:
 ![alt text](https://github.com/Acool4ik/Distributed-computing-system/blob/master/images/Screencast.gif)
 ### Then to run main node (server):
