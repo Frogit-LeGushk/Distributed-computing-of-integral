@@ -1,4 +1,5 @@
 # Distributed-computing-integral
+Запустим один главный сервер (master) и несколько вычислительных узлов (slaves), соединяем вычислительные узлы с главным сервером при помощи сокетов (по локальной сети), вводим пределы интегрирования и запускаем вычисления. Функцию, по которой ведется интегрирование можно менять `see FUNCTION.cpp`
 ### Screencast:
 ![alt text](https://github.com/Acool4ik/Distributed-computing-system/blob/master/images/Screencast.gif)
 ### Then to run main node (server):
